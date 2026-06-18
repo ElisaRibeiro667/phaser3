@@ -1,0 +1,11 @@
+{
+  "name": "eco-tycoon-planet-rescue",
+  "version": "1.0.0",
+  "description": "Eco-Tycoon: Planet Rescue — Phaser 3 game for Tecnologias Multimédia 2025/2026",
+  "scripts": {
+    "start": "npx serve . -p 8080",
+    "serve": "npx serve . -p 8080"
+  },
+  "keywords": ["phaser3", "game", "ecotycoon"],
+  "license": "MIT"
+}
